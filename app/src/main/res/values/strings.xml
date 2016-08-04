@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_maps">Porta un Amico</string>
+    <string name="app_name">Porta un Amico</string>
+    <string name="hello_world">Inserisci il TUO nome:</string>
+    <string name="action_settings">Maggiori Info</string>
+    <string name="action_settings2">Esci</string>
+</resources>
